@@ -33,7 +33,11 @@ Senior Frontend / Product Engineer with **6+ years of commercial experience in f
 
 A good interface does more than look polished. It helps people understand what matters, make confident decisions, and move through complex work without unnecessary friction.
 
-<img src="./assets/request-to-system.gif" width="100%" alt="From request to system — a workflow gradually becoming clear and structured">
+<!-- <img src="./assets/request-to-system.gif" width="100%" alt="From request to system — a workflow gradually becoming clear and structured"> -->
+
+<picture>
+    <source srcset="./assets/banner.svg">
+</picture>
 
 <br />
 
