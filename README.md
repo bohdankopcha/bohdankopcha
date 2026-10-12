@@ -35,9 +35,7 @@ A good interface does more than look polished. It helps people understand what m
 
 <!-- <img src="./assets/request-to-system.gif" width="100%" alt="From request to system — a workflow gradually becoming clear and structured"> -->
 
-<picture>
-    <source srcset="./assets/banner.svg">
-</picture>
+<img src="./assets/banner.svg" width="100%" alt="From request to system — a workflow gradually becoming clear and structured">
 
 <br />
 
