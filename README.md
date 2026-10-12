@@ -1,7 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero.svg">
-  <img src="./assets/hero.svg" width="100%" alt="Bohdan Kopcha — Senior Frontend and Product Engineer">
-</picture>
+<a href="https://www.linkedin.com/in/bohdan-kopcha-478ab7314/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/bohdan-kopcha-hero-dark.svg">
+    <img alt="Bohdan Kopcha" src="./assets/bohdan-kopcha-hero-light.svg">
+  </picture>
+</a>
 
 <br />
 
@@ -16,7 +18,7 @@ Senior Frontend / Product Engineer with **6+ years of commercial experience in f
     <td>
       <h3>Have a product challenge worth solving?</h3>
       <p>If you are building a new product, untangling a difficult workflow, or need a frontend partner who cares about both the product and the system behind it, let’s talk. I am open to remote B2B collaboration and meaningful engineering conversations.</p>
-      <p><strong><a href="https://www.linkedin.com/in/bohdan-kopcha-478ab7314/">Connect on LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:kopchabogdan@gmail.com">kopchabogdan@gmail.com</a> &nbsp;·&nbsp; <a href="tel:+48508136641">Call or message: +48 508 136 641</a></strong></p>
+      <p><strong><a href="https://bohdankopcha.dev/">bohdankopcha.dev</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/bohdan-kopcha-478ab7314/">Connect on LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:kopchabogdan@gmail.com">kopchabogdan@gmail.com</a> &nbsp;·&nbsp; <a href="tel:+48508136641">Call or message: +48 508 136 641</a></strong></p>
     </td>
   </tr>
 </table>
